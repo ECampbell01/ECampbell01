@@ -1,6 +1,6 @@
 - 👋 Hi, I am Ethan Campbell
 - 🏫 I’m pursuing my education at McNeese State University
-- 🌱 I’m currently learning Java, Python, and SQL
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, PHP, and MySQL
 - 🎓 Attempting a Bachelors Degree of Applied Computer Science
 - 📫 Personal Email: ethancampbell206@gmail.com
 - 📫 School Email: ecampbell@mcneese.edu

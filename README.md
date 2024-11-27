@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan Campbell</h1>
 <h3 align="center">A Computer Science student from Louisiana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecampbell01" alt="ecampbell01" /></a> </p>
-
 - 🌱 I’m currently learning **Unity and C#**
 
 - 📫 How to reach me **ethancampbell206@gmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecampbell01&show_icons=true&locale=en&layout=compact" alt="ecampbell01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecampbell01&show_icons=true&locale=en" alt="ecampbell01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecampbell01&" alt="ecampbell01" /></p>

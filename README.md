@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ethancampbell206@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h14b5qFG9k576pcXDC_vPR30PE_VyhY9/view?usp=drive_link](https://drive.google.com/file/d/1h14b5qFG9k576pcXDC_vPR30PE_VyhY9/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h14b5qFG9k576pcXDC_vPR30PE_VyhY9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

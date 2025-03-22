@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ethan Campbell</h1>
-<h3 align="center">A Computer Science student from Louisiana</h3>
+<h3 align="center">Computer Science student at McNeese State University</h3>
+
+- 🔭 I’m currently working on [Nakhla Chronicles](https://github.com/ECampbell01/Nakhla-Chronicles)
 
 - 🌱 I’m currently learning **Unity and C#**
 
 - 📫 How to reach me **ethancampbell206@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h14b5qFG9k576pcXDC_vPR30PE_VyhY9/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/11Qwh1EDB3-26qUvxxLWJT04LevAj64O8I35bfc5LPS0/edit?tab=t.0](https://docs.google.com/document/d/11Qwh1EDB3-26qUvxxLWJT04LevAj64O8I35bfc5LPS0/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
